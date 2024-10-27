@@ -1,4 +1,4 @@
-![Emulator Launcher Logo](unnammed_processed.png)
+![Emulator Launcher Logo](unnamed_processed.png)
 # 🎮 Emulator Launcher
 
 Emulator Launcher is a one-stop solution for playing classic games across a variety of consoles! With this launcher, enjoy the nostalgia of playing games from consoles like Game Boy, Game Boy Color, Game Boy Advance, DOS, Nintendo DS, Nintendo 3DS, GameCube, Wii, and PlayStation 2, all in one place.
