@@ -24,6 +24,7 @@ Simply load up your favorite ROMs for the supported consoles, and you’re ready
 ## 🔧 Requirements
 - Windows (7, 8, 10, or 11)
 - Recommended: At least 4GB RAM for smoother gameplay, especially for more demanding consoles like GameCube, Wii, and PlayStation 2.
+- .NET Framework
 
 ## 📞 Support
 If you encounter any issues or have questions, feel free to open an issue or reach out via the discussions section.
