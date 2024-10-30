@@ -1,8 +1,7 @@
 
 ![Emulator Launcher Logo](unnamed_processed.png)
 
-![Git Downloads](https://img.shields.io/github/downloads/bobbydanieljones/Emulator-Launcher-Public/total.svg)![GitHub Release](https://img.shields.io/github/v/release/bobbydanieljones/Emulator-Launcher-Public)
-
+![GitHub Release](https://img.shields.io/github/v/release/bobbydanieljones/Emulator-Launcher-Public)![Git Downloads](https://img.shields.io/github/downloads/bobbydanieljones/Emulator-Launcher-Public/total.svg)
 
 
 # 🎮 Emulator Launcher
