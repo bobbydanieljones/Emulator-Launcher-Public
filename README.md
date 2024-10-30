@@ -1,5 +1,6 @@
-![Emulator Launcher Logo](unnamed_processed.png)[![releases](https://img.shields.io/github/v/release/bobbydanieljones/Emulator-Launcher-Public)](https://github.com/bobbydanieljones/Emulator-Launcher-Public/releases)[![releases](https://img.shields.io/github/downloads/bobbydanieljones/Emulator-Launcher-Public/total.svg)](https://github.com/bobbydanieljones/Emulator-Launcher-Public/releases)
-
+![Emulator Launcher Logo](unnamed_processed.png)[![releases](https://img.shields.io/github/v/release/bobbydanieljones/Emulator-Launcher-Public)](https://github.com/bobbydanieljones/Emulator-Launcher-Public/releases)
+[![releases](https://img.shields.io/github/downloads/bobbydanieljones/Emulator-Launcher-Public/total.svg)](https://github.com/bobbydanieljones/Emulator-Launcher-Public/releases)
+[![releases](https://discord.com/api/guilds/1292129197233541173/widget.png?style=shield)](https://discord.gg/fujWY6HTKQ)
 
 
 # 🎮 Emulator Launcher
